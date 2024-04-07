@@ -1,0 +1,15 @@
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfo.cs
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.exe
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.deps.json
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.runtimeconfig.json
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.pdb
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\BinarySearch\obj\Debug\net6.0\refint\BinarySearch.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.pdb
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.genruntimeconfig.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\BinarySearch\obj\Debug\net6.0\ref\BinarySearch.dll

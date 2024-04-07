@@ -1,0 +1,30 @@
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\InsertionSort\bin\Debug\net6.0\InsertionSort.exe
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\InsertionSort\bin\Debug\net6.0\InsertionSort.deps.json
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\InsertionSort\bin\Debug\net6.0\InsertionSort.runtimeconfig.json
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\InsertionSort\bin\Debug\net6.0\InsertionSort.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\InsertionSort\bin\Debug\net6.0\InsertionSort.pdb
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\InsertionSort.csproj.AssemblyReference.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\InsertionSort.AssemblyInfo.cs
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\InsertionSort.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\refint\InsertionSort.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\InsertionSort.pdb
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\InsertionSort.genruntimeconfig.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\ref\InsertionSort.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\InsertionSort\bin\Debug\net6.0\InsertionSort.exe
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\InsertionSort\bin\Debug\net6.0\InsertionSort.deps.json
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\InsertionSort\bin\Debug\net6.0\InsertionSort.runtimeconfig.json
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\InsertionSort\bin\Debug\net6.0\InsertionSort.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\InsertionSort\bin\Debug\net6.0\InsertionSort.pdb
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\InsertionSort.csproj.AssemblyReference.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\InsertionSort.AssemblyInfo.cs
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\InsertionSort.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\refint\InsertionSort.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\InsertionSort.pdb
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\InsertionSort.genruntimeconfig.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\InsertionSort\obj\Debug\net6.0\ref\InsertionSort.dll

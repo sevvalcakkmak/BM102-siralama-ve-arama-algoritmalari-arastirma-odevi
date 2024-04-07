@@ -1,0 +1,30 @@
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\BubbleSort\bin\Debug\net6.0\BubbleSort.exe
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\refint\BubbleSort.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\BubbleSort\bin\Debug\net6.0\BubbleSort.exe
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\refint\BubbleSort.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Sorting Algorithms\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll

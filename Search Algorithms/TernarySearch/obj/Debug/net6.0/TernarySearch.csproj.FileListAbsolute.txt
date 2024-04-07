@@ -1,0 +1,30 @@
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\TernarySearch\bin\Debug\net6.0\TernarySearch.exe
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\TernarySearch\bin\Debug\net6.0\TernarySearch.deps.json
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\TernarySearch\bin\Debug\net6.0\TernarySearch.runtimeconfig.json
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\TernarySearch\bin\Debug\net6.0\TernarySearch.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\TernarySearch\bin\Debug\net6.0\TernarySearch.pdb
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\TernarySearch\obj\Debug\net6.0\TernarySearch.csproj.AssemblyReference.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\TernarySearch\obj\Debug\net6.0\TernarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\TernarySearch\obj\Debug\net6.0\TernarySearch.AssemblyInfoInputs.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\TernarySearch\obj\Debug\net6.0\TernarySearch.AssemblyInfo.cs
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\TernarySearch\obj\Debug\net6.0\TernarySearch.csproj.CoreCompileInputs.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\TernarySearch\obj\Debug\net6.0\TernarySearch.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\TernarySearch\obj\Debug\net6.0\refint\TernarySearch.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\TernarySearch\obj\Debug\net6.0\TernarySearch.pdb
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\TernarySearch\obj\Debug\net6.0\TernarySearch.genruntimeconfig.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Search Algorithms\TernarySearch\obj\Debug\net6.0\ref\TernarySearch.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Search Algorithms\TernarySearch\bin\Debug\net6.0\TernarySearch.exe
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Search Algorithms\TernarySearch\bin\Debug\net6.0\TernarySearch.deps.json
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Search Algorithms\TernarySearch\bin\Debug\net6.0\TernarySearch.runtimeconfig.json
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Search Algorithms\TernarySearch\bin\Debug\net6.0\TernarySearch.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Search Algorithms\TernarySearch\bin\Debug\net6.0\TernarySearch.pdb
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Search Algorithms\TernarySearch\obj\Debug\net6.0\TernarySearch.csproj.AssemblyReference.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Search Algorithms\TernarySearch\obj\Debug\net6.0\TernarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Search Algorithms\TernarySearch\obj\Debug\net6.0\TernarySearch.AssemblyInfoInputs.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Search Algorithms\TernarySearch\obj\Debug\net6.0\TernarySearch.AssemblyInfo.cs
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Search Algorithms\TernarySearch\obj\Debug\net6.0\TernarySearch.csproj.CoreCompileInputs.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Search Algorithms\TernarySearch\obj\Debug\net6.0\TernarySearch.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Search Algorithms\TernarySearch\obj\Debug\net6.0\refint\TernarySearch.dll
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Search Algorithms\TernarySearch\obj\Debug\net6.0\TernarySearch.pdb
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Search Algorithms\TernarySearch\obj\Debug\net6.0\TernarySearch.genruntimeconfig.cache
+C:\Users\sevva\Desktop\C#\VS 2022\Console App\Search Algorithms\TernarySearch\obj\Debug\net6.0\ref\TernarySearch.dll
